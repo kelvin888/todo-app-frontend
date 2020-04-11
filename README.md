@@ -1,3 +1,11 @@
+Note: 
+1. We will only use CSS in JS like styled-components
+2. Everything must be a compnnent
+3. Huge emphasis is placed on making reusable components
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
